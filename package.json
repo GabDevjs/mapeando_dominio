@@ -1,0 +1,20 @@
+{
+  "name": "mapeando_dominio",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "fastify": "^3.29.5"
+  },
+  "devDependencies": {
+    "@types/node": "^14.18.63",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.9.5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
